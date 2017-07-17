@@ -10,8 +10,10 @@
                 </div>
 
                 <div class="panel-body">
-                    Selamat Datang Di Menu Administrasi Larapus Silahkan Pilih Menu Administrasi yang diinginkan.
+                    Selamat Datang Di Menu Administrasi Larapus,
                 </div>
+                <div class="panel-body">
+                Silahkan Pilih Menu Administrasi yang di inginkan.                
             </div>
         </div>
     </div>
